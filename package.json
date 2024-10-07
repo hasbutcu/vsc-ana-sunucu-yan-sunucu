@@ -1,0 +1,19 @@
+{
+  "name": "ckanaatmabot",
+  "version": "0.0.1",
+  "description": "Wraiths Dev Kanalına Ait Yan Sunucudan Kickleme Botu Altyapısıdır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "wraiths0",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^13.7.0"
+  },
+"engines": {
+  "node": "16.x"
+}
+}
